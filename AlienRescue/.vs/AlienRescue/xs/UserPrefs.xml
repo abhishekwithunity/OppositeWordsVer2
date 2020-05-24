@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{33F96274-88CD-3902-3A9E-AFDF68B321A3}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelController/LevelMenuScript.cs">
+    <Files>
+      <File FileName="../../AlienRescue/Assets/Plugins/AdmobAPI/Admob.cs" Line="171" Column="1" />
+      <File FileName="Assets/Scripts/MainMenuController/MainMenuController.cs" Line="48" Column="5" />
+      <File FileName="Assets/Scripts/GameController/Gameplay_script.cs" Line="33" Column="76" />
+      <File FileName="Assets/Scripts/JoystickScript/Joystick.cs" Line="22" Column="13" />
+      <File FileName="Assets/48 Particle Effect Pack/Script/csShowAllEffect.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/LevelController/LevelMenuScript.cs" Line="29" Column="11" />
+      <File FileName="Assets/AdManager.cs" Line="44" Column="67" />
+      <File FileName="Assets/admobdemo.cs" Line="35" Column="64" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
