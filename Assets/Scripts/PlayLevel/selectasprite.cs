@@ -36,7 +36,7 @@ public class selectasprite : MonoBehaviour
             //DragandDrop.locked = false; 
            
         }
-        if(DragandDrop.wronganswer)
+        if(DragandDrop.wronganswer && quizfinished==false)
         {
             StartCoroutine(PlayWrongAnswerAudiofx());
         }
@@ -52,8 +52,7 @@ public class selectasprite : MonoBehaviour
         yield return new WaitForSeconds(0.1f);
         DragandDrop.wronganswer= false;
 
-        //if the next line is uncommented then the code will run automatically 
-        //changesprite();
+         
     }
 
 

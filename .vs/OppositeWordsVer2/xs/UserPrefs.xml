@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{6A8821C8-68AE-5B2E-F599-06AD62FBCF50}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/PlayLevel/selectasprite.cs">
+    <Files>
+      <File FileName="Assets/Scripts_DD/DragandDrop.cs" Line="78" Column="32" />
+      <File FileName="Assets/Scripts/PlayLevel/selectasprite.cs" Line="53" Column="9" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

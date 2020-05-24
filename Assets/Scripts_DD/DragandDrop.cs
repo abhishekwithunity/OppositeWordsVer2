@@ -21,6 +21,9 @@ public class DragandDrop : MonoBehaviour
 
     public static bool locked=false;
     public static DragandDrop instance;
+    public static bool wronganswer=false;
+
+
     public void Makeinstance()
     {
         if (instance == null)
@@ -45,6 +48,7 @@ public class DragandDrop : MonoBehaviour
         Debug.Log("Mouse Clicked");
         if (!locked)
         {
+           // wronganswer = false;
             deltaX = Camera.main.ScreenToWorldPoint(Input.mousePosition).x - transform.position.x;
             deltaY = Camera.main.ScreenToWorldPoint(Input.mousePosition).y - transform.position.y;
         }
@@ -72,6 +76,7 @@ public class DragandDrop : MonoBehaviour
         else
         {
             transform.position = new Vector2(initialPosition.x, initialPosition.y);
+            wronganswer = true;
         }
     }
 }
