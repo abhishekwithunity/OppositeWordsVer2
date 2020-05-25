@@ -1,13 +1,13 @@
 ﻿<Properties StartupConfiguration="{6A8821C8-68AE-5B2E-F599-06AD62FBCF50}|">
   <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/AdManager.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/LevelController/LevelMenuScript.cs">
     <Files>
       <File FileName="Assets/Scripts_DD/DragandDrop.cs" Line="51" Column="14" />
       <File FileName="Assets/Scripts/PlayLevel/selectasprite.cs" Line="53" Column="45" />
-      <File FileName="Assets/CameraShakeFX/Scripts/TraumaInducer.cs" Line="20" Column="9" />
-      <File FileName="Assets/AdManager.cs" Line="44" Column="67" />
-      <File FileName="Assets/Scripts/MainMenuController/MainMenuController.cs" Line="8" Column="6" />
-      <File FileName="Assets/Scripts/LevelController/LevelMenuScript.cs" Line="16" Column="78" />
+      <File FileName="Assets/CameraShakeFX/Scripts/TraumaInducer.cs" Line="20" Column="1" />
+      <File FileName="Assets/AdManager.cs" Line="25" Column="12" />
+      <File FileName="Assets/Scripts/MainMenuController/MainMenuController.cs" Line="12" Column="41" />
+      <File FileName="Assets/Scripts/LevelController/LevelMenuScript.cs" Line="43" Column="5" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
