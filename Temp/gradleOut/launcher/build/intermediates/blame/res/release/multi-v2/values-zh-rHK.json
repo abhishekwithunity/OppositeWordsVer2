@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-zh-rHK/values-zh-rHK.xml",
+            "map": [
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "251",
+                        "endColumns": "166",
+                        "endOffsets": "417"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "166",
+                        "endOffsets": "267"
+                    }
+                },
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/values-zh-rHK/values-zh-rHK.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "101",
+                        "endOffsets": "152"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "750",
+                        "endColumns": "101",
+                        "endOffsets": "847"
+                    }
+                },
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e2ae1303a013eff3b30fa7f01266b328/res/values-zh-rHK/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "201,262,335,395,455,519,589",
+                        "endColumns": "60,72,59,59,63,69,61",
+                        "endOffsets": "261,334,394,454,518,588,650"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "272,337,414,478,542,610,684",
+                        "endColumns": "64,76,63,63,67,73,65",
+                        "endOffsets": "332,409,473,537,605,679,745"
+                    }
+                }
+            ]
+        }
+    ]
+}

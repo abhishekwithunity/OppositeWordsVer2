@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-bg/values-bg.xml",
+            "map": [
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e2ae1303a013eff3b30fa7f01266b328/res/values-bg/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,280,414,479,546,636,755",
+                        "endColumns": "82,133,64,66,89,118,72",
+                        "endOffsets": "279,413,478,545,635,754,827"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "302,389,527,596,667,761,884",
+                        "endColumns": "86,137,68,70,93,122,76",
+                        "endOffsets": "384,522,591,662,756,879,956"
+                    }
+                },
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/values-bg/values-bg.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "961",
+                        "endColumns": "100",
+                        "endOffsets": "1057"
+                    }
+                },
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/res/values-bg/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "196",
+                        "endOffsets": "443"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "196",
+                        "endOffsets": "297"
+                    }
+                }
+            ]
+        }
+    ]
+}

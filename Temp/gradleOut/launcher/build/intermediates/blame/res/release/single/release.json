@@ -1,0 +1,242 @@
+[
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_lines_media.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/res/layout/notification_template_lines_media.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-mdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-xxhdpi_app_icon_round.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-xxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_notification_tile_bg.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable/notification_tile_bg.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_part_chronometer.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-mdpi_app_icon.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_admob_content_tpl_small.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/res/layout/admob_content_tpl_small.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-xhdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-xxxhdpi_app_icon.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-xxxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-hdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-ldpi_app_icon.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-ldpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_media_action.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-hdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_notification_icon_background.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable/notification_icon_background.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-hdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_ad_unified2.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/res/layout/ad_unified2.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_big_media_custom.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/res/layout/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-xhdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-mdpi-v4/notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-mdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_admob_content_tpl.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/res/layout/admob_content_tpl.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-xxhdpi_app_icon.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-xxhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-mdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_media.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-xxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_media_custom.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/res/layout/notification_template_media_custom.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-mdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-ldpi_app_icon_round.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-ldpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/res/layout/notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_ad_unified.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/res/layout/ad_unified.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout-v21_notification_action_tombstone.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-xhdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_notification_bg_low.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable/notification_bg_low.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout-v21_notification_action.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-hdpi_app_icon.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-hdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable_notification_bg.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable/notification_bg.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout-v21_notification_template_custom_big.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-xxxhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-ldpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-ldpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_big_media.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/res/layout/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-hdpi-v4/notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_ad_layout3.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/res/layout/ad_layout3.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout-v21_notification_template_icon_group.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-mdpi_app_icon_round.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-mdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-xhdpi_app_icon_round.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-xhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-hdpi-v4/notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_media_cancel_action.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi_app_banner.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/drawable-xhdpi/app_banner.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-xxxhdpi_app_icon_round.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-xxxhdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-v21_notification_action_background.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-v21/notification_action_background.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_admob_install_app_tpl.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/res/layout/admob_install_app_tpl.xml"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-xhdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-hdpi/ic_launcher_foreground.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-hdpi_app_icon_round.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-hdpi/app_icon_round.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/mipmap-xhdpi_app_icon.png.flat",
+        "source": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/res/mipmap-xhdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/drawable-xhdpi-v4/notification_bg_normal.9.png"
+    },
+    {
+        "merged": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/res/merged/release/layout_notification_template_part_time.xml.flat",
+        "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/layout/notification_template_part_time.xml"
+    }
+]

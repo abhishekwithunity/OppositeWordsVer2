@@ -1,0 +1,60 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-kk/values-kk.xml",
+            "map": [
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/res/values-kk/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "222",
+                        "endOffsets": "469"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "222",
+                        "endOffsets": "323"
+                    }
+                },
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/res/values-kk/values-kk.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "100",
+                        "endOffsets": "151"
+                    },
+                    "to": {
+                        "startLines": "10",
+                        "startColumns": "4",
+                        "startOffsets": "951",
+                        "endColumns": "100",
+                        "endOffsets": "1047"
+                    }
+                },
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e2ae1303a013eff3b30fa7f01266b328/res/values-kk/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,269,393,459,527,608,721",
+                        "endColumns": "71,123,65,67,80,112,70",
+                        "endOffsets": "268,392,458,526,607,720,791"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "328,404,532,602,674,759,876",
+                        "endColumns": "75,127,69,71,84,116,74",
+                        "endOffsets": "399,527,597,669,754,871,946"
+                    }
+                }
+            ]
+        }
+    ]
+}

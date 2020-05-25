@@ -1,0 +1,43 @@
+{
+    "logs": [
+        {
+            "outputFile": "/Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-or/values-or.xml",
+            "map": [
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/res/values-or/values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "0",
+                        "startOffsets": "247",
+                        "endColumns": "198",
+                        "endOffsets": "445"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "105",
+                        "endColumns": "198",
+                        "endOffsets": "299"
+                    }
+                },
+                {
+                    "source": "/Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e2ae1303a013eff3b30fa7f01266b328/res/values-or/values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10",
+                        "startColumns": "0,0,0,0,0,0,0",
+                        "startOffsets": "197,272,406,476,553,643,766",
+                        "endColumns": "74,133,69,76,89,122,77",
+                        "endOffsets": "271,405,475,552,642,765,843"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4",
+                        "startOffsets": "304,383,521,595,676,770,897",
+                        "endColumns": "78,137,73,80,93,126,81",
+                        "endOffsets": "378,516,590,671,765,892,974"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,335 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+MERGED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:7:1-69:12
+MERGED from [:admoblib-release:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/AndroidManifest.xml:2:1-13:12
+MERGED from [:customtabs-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f39565258bc28256c2a0a1f15698cfc/AndroidManifest.xml:17:1-28:12
+MERGED from [:play-services-ads-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e2ae1303a013eff3b30fa7f01266b328/AndroidManifest.xml:17:1-25:12
+MERGED from [:play-services-ads-base-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/a82376067c59b7a784127bf856da8089/AndroidManifest.xml:2:1-9:12
+MERGED from [:play-services-ads-identifier-16.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/55b361cc27bbd246f7e5fcc15b7a4dfa/AndroidManifest.xml:17:1-24:12
+MERGED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:17:1-42:12
+MERGED from [:play-services-basement-16.0.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/AndroidManifest.xml:17:1-28:12
+MERGED from [:play-services-gass-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/b291ced57ebcc63e0617d8b9f77cd76f/AndroidManifest.xml:2:1-9:12
+MERGED from [:play-services-measurement-base-16.0.3:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/afcbce8d3357990e30ac05567188447a/AndroidManifest.xml:2:1-9:12
+MERGED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:17:1-30:12
+MERGED from [:runtime-1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/db8bd4822fc0647ded989b078bcf7cf0/AndroidManifest.xml:17:1-30:12
+MERGED from [:support-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/AndroidManifest.xml:17:1-31:12
+MERGED from [:support-core-ui-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d0774bb91e45cc62d0a2d34ac9d4b22d/AndroidManifest.xml:17:1-31:12
+MERGED from [:support-core-utils-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/66584f2102b311c7688848b5f38c67a6/AndroidManifest.xml:17:1-31:12
+MERGED from [:support-fragment-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e5325bfbdfe706aea6c5a67a7406f6de/AndroidManifest.xml:17:1-31:12
+MERGED from [:support-media-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/AndroidManifest.xml:17:1-31:12
+MERGED from [:support-v4-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/96ca0a57196c49e4b49f5aad4be281ec/AndroidManifest.xml:17:1-31:12
+MERGED from [:unity-adapter-2.1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/35742ab9f6ac728e945a34f0a5316aa3/AndroidManifest.xml:2:1-12:12
+MERGED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:2:1-27:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+	package
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:70-106
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:107-153
+	android:versionCode
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:1-6:12
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:11-69
+	android:installLocation
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:3:154-194
+supports-screens
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:3-163
+	android:largeScreens
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:78-105
+	android:smallScreens
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:21-48
+	android:normalScreens
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:49-77
+	android:xlargeScreens
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:106-134
+	android:anyDensity
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:4:135-160
+application
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:3-121
+MERGED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-67:19
+MERGED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:35:5-67:19
+MERGED from [:customtabs-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f39565258bc28256c2a0a1f15698cfc/AndroidManifest.xml:22:5-26:19
+MERGED from [:customtabs-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f39565258bc28256c2a0a1f15698cfc/AndroidManifest.xml:22:5-26:19
+MERGED from [:play-services-ads-base-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/a82376067c59b7a784127bf856da8089/AndroidManifest.xml:7:5-20
+MERGED from [:play-services-ads-base-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/a82376067c59b7a784127bf856da8089/AndroidManifest.xml:7:5-20
+MERGED from [:play-services-ads-identifier-16.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/55b361cc27bbd246f7e5fcc15b7a4dfa/AndroidManifest.xml:22:5-20
+MERGED from [:play-services-ads-identifier-16.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/55b361cc27bbd246f7e5fcc15b7a4dfa/AndroidManifest.xml:22:5-20
+MERGED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:26:5-40:19
+MERGED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:26:5-40:19
+MERGED from [:play-services-basement-16.0.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/AndroidManifest.xml:22:5-26:19
+MERGED from [:play-services-basement-16.0.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/AndroidManifest.xml:22:5-26:19
+MERGED from [:play-services-gass-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/b291ced57ebcc63e0617d8b9f77cd76f/AndroidManifest.xml:7:5-20
+MERGED from [:play-services-gass-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/b291ced57ebcc63e0617d8b9f77cd76f/AndroidManifest.xml:7:5-20
+MERGED from [:play-services-measurement-base-16.0.3:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/afcbce8d3357990e30ac05567188447a/AndroidManifest.xml:7:5-20
+MERGED from [:play-services-measurement-base-16.0.3:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/afcbce8d3357990e30ac05567188447a/AndroidManifest.xml:7:5-20
+MERGED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:27:5-28:19
+MERGED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:27:5-28:19
+MERGED from [:runtime-1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/db8bd4822fc0647ded989b078bcf7cf0/AndroidManifest.xml:24:5-28:19
+MERGED from [:runtime-1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/db8bd4822fc0647ded989b078bcf7cf0/AndroidManifest.xml:24:5-28:19
+MERGED from [:support-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-core-ui-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d0774bb91e45cc62d0a2d34ac9d4b22d/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-core-ui-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d0774bb91e45cc62d0a2d34ac9d4b22d/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-core-utils-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/66584f2102b311c7688848b5f38c67a6/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-core-utils-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/66584f2102b311c7688848b5f38c67a6/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-fragment-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e5325bfbdfe706aea6c5a67a7406f6de/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-fragment-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e5325bfbdfe706aea6c5a67a7406f6de/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-media-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-media-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-v4-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/96ca0a57196c49e4b49f5aad4be281ec/AndroidManifest.xml:25:5-29:19
+MERGED from [:support-v4-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/96ca0a57196c49e4b49f5aad4be281ec/AndroidManifest.xml:25:5-29:19
+MERGED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:14:5-25:19
+MERGED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:14:5-25:19
+	android:label
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:16-48
+	android:icon
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:49-80
+	android:banner
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml:5:81-118
+	android:theme
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:39:9-50
+	android:isGame
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:37:9-30
+uses-sdk
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+MERGED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:41
+MERGED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:13:5-15:41
+MERGED from [:admoblib-release:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/AndroidManifest.xml:7:5-9:41
+MERGED from [:admoblib-release:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/AndroidManifest.xml:7:5-9:41
+MERGED from [:customtabs-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f39565258bc28256c2a0a1f15698cfc/AndroidManifest.xml:20:5-44
+MERGED from [:customtabs-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f39565258bc28256c2a0a1f15698cfc/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-ads-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e2ae1303a013eff3b30fa7f01266b328/AndroidManifest.xml:21:5-23:62
+MERGED from [:play-services-ads-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e2ae1303a013eff3b30fa7f01266b328/AndroidManifest.xml:21:5-23:62
+MERGED from [:play-services-ads-base-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/a82376067c59b7a784127bf856da8089/AndroidManifest.xml:5:5-44
+MERGED from [:play-services-ads-base-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/a82376067c59b7a784127bf856da8089/AndroidManifest.xml:5:5-44
+MERGED from [:play-services-ads-identifier-16.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/55b361cc27bbd246f7e5fcc15b7a4dfa/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-ads-identifier-16.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/55b361cc27bbd246f7e5fcc15b7a4dfa/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-basement-16.0.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-basement-16.0.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-gass-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/b291ced57ebcc63e0617d8b9f77cd76f/AndroidManifest.xml:5:5-44
+MERGED from [:play-services-gass-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/b291ced57ebcc63e0617d8b9f77cd76f/AndroidManifest.xml:5:5-44
+MERGED from [:play-services-measurement-base-16.0.3:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/afcbce8d3357990e30ac05567188447a/AndroidManifest.xml:5:5-44
+MERGED from [:play-services-measurement-base-16.0.3:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/afcbce8d3357990e30ac05567188447a/AndroidManifest.xml:5:5-44
+MERGED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:20:5-44
+MERGED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:20:5-44
+MERGED from [:runtime-1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/db8bd4822fc0647ded989b078bcf7cf0/AndroidManifest.xml:20:5-22:41
+MERGED from [:runtime-1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/db8bd4822fc0647ded989b078bcf7cf0/AndroidManifest.xml:20:5-22:41
+MERGED from [:support-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-ui-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d0774bb91e45cc62d0a2d34ac9d4b22d/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-ui-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d0774bb91e45cc62d0a2d34ac9d4b22d/AndroidManifest.xml:21:5-23:58
+MERGED from [:support-core-utils-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/66584f2102b311c7688848b5f38c67a6/AndroidManifest.xml:21:5-23:61
+MERGED from [:support-core-utils-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/66584f2102b311c7688848b5f38c67a6/AndroidManifest.xml:21:5-23:61
+MERGED from [:support-fragment-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e5325bfbdfe706aea6c5a67a7406f6de/AndroidManifest.xml:21:5-23:60
+MERGED from [:support-fragment-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e5325bfbdfe706aea6c5a67a7406f6de/AndroidManifest.xml:21:5-23:60
+MERGED from [:support-media-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/AndroidManifest.xml:21:5-23:63
+MERGED from [:support-media-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/AndroidManifest.xml:21:5-23:63
+MERGED from [:support-v4-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/96ca0a57196c49e4b49f5aad4be281ec/AndroidManifest.xml:21:5-23:54
+MERGED from [:support-v4-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/96ca0a57196c49e4b49f5aad4be281ec/AndroidManifest.xml:21:5-23:54
+MERGED from [:unity-adapter-2.1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/35742ab9f6ac728e945a34f0a5316aa3/AndroidManifest.xml:8:5-10:11
+MERGED from [:unity-adapter-2.1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/35742ab9f6ac728e945a34f0a5316aa3/AndroidManifest.xml:8:5-10:11
+MERGED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:7:5-9:41
+MERGED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:7:5-9:41
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [:play-services-ads-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e2ae1303a013eff3b30fa7f01266b328/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/launcher/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:5-79
+MERGED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:24:5-79
+MERGED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:24:5-79
+MERGED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:24:5-79
+MERGED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:24:5-79
+MERGED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:11:5-79
+MERGED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:11:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:17:22-76
+uses-permission#android.permission.INTERNET
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:5-67
+MERGED from [:admoblib-release:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/AndroidManifest.xml:11:5-67
+MERGED from [:admoblib-release:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/6d7e5e5373f3f24d5e4f5ede5dfadca1/AndroidManifest.xml:11:5-67
+MERGED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:23:5-67
+MERGED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:23:5-67
+MERGED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:23:5-67
+MERGED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:23:5-67
+MERGED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:12:5-67
+MERGED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:18:22-64
+uses-feature#0x00020000
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:5-54
+	android:glEsVersion
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:20:19-51
+supports-gl-texture#GL_OES_compressed_ETC1_RGB8_texture
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:5-79
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:22:26-76
+uses-feature#android.hardware.touchscreen
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:24:5-26:36
+	android:required
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:26:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:25:9-52
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:27:5-29:36
+	android:required
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:29:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:28:9-63
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:30:5-32:36
+	android:required
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:32:9-33
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:31:9-72
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:40:9-53:20
+	android:screenOrientation
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:46:13-50
+	android:label
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:44:13-45
+	android:launchMode
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:45:13-44
+	android:hardwareAccelerated
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:43:13-48
+	android:configChanges
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:42:13-194
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:41:13-66
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:47:13-52:29
+action#android.intent.action.MAIN
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:17-69
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:48:25-66
+category#android.intent.category.LAUNCHER
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:17-77
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:50:27-74
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:17-86
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:51:27-83
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:55:9-57:70
+	android:value
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:57:13-67
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:56:13-69
+meta-data#unity.splash-mode
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:58:9-60:33
+	android:value
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:60:13-30
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:59:13-45
+meta-data#unity.splash-enable
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:61:9-63:36
+	android:value
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:63:13-33
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:62:13-47
+meta-data#unity.build-id
+ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:64:9-66:68
+	android:value
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:66:13-65
+	android:name
+		ADDED from [:unityLibrary] /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/build/intermediates/library_manifest/release/AndroidManifest.xml:65:13-42
+meta-data#android.support.VERSION
+ADDED from [:customtabs-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f39565258bc28256c2a0a1f15698cfc/AndroidManifest.xml:23:9-25:38
+MERGED from [:support-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/799bd4b2cacdd5962ed0f78d7afcc3b0/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-core-ui-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d0774bb91e45cc62d0a2d34ac9d4b22d/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-core-ui-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d0774bb91e45cc62d0a2d34ac9d4b22d/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-core-utils-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/66584f2102b311c7688848b5f38c67a6/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-core-utils-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/66584f2102b311c7688848b5f38c67a6/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-fragment-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e5325bfbdfe706aea6c5a67a7406f6de/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-fragment-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/e5325bfbdfe706aea6c5a67a7406f6de/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-media-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-media-compat-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cab9ae89d8fc575331ed3c6f83479641/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-v4-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/96ca0a57196c49e4b49f5aad4be281ec/AndroidManifest.xml:26:9-28:38
+MERGED from [:support-v4-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/96ca0a57196c49e4b49f5aad4be281ec/AndroidManifest.xml:26:9-28:38
+	android:value
+		ADDED from [:customtabs-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f39565258bc28256c2a0a1f15698cfc/AndroidManifest.xml:25:13-35
+	android:name
+		ADDED from [:customtabs-26.1.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f39565258bc28256c2a0a1f15698cfc/AndroidManifest.xml:24:13-51
+activity#com.google.android.gms.ads.AdActivity
+ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:29:9-33:64
+	android:exported
+		ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:32:13-37
+	android:configChanges
+		ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:31:13-122
+	android:theme
+		ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:33:13-61
+	android:name
+		ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:30:13-65
+provider#com.google.android.gms.ads.MobileAdsInitProvider
+ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:35:9-39:39
+	android:authorities
+		ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:37:13-73
+	android:exported
+		ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:38:13-37
+	android:initOrder
+		ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:39:13-36
+	android:name
+		ADDED from [:play-services-ads-lite-17.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/610a7190417087d0e52bbd320db5ed76/AndroidManifest.xml:36:13-76
+meta-data#com.google.android.gms.version
+ADDED from [:play-services-basement-16.0.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/AndroidManifest.xml:23:9-25:69
+	android:value
+		ADDED from [:play-services-basement-16.0.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [:play-services-basement-16.0.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/cf378e446ab45c90dff08a7941343a2e/AndroidManifest.xml:24:13-58
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [:play-services-measurement-sdk-api-16.0.2:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/d157164a78f54693afa16815e594bb3a/AndroidManifest.xml:25:22-65
+meta-data#android.arch.lifecycle.VERSION
+ADDED from [:runtime-1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/db8bd4822fc0647ded989b078bcf7cf0/AndroidManifest.xml:25:9-27:47
+	android:value
+		ADDED from [:runtime-1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/db8bd4822fc0647ded989b078bcf7cf0/AndroidManifest.xml:27:13-44
+	android:name
+		ADDED from [:runtime-1.0.0:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/db8bd4822fc0647ded989b078bcf7cf0/AndroidManifest.xml:26:13-58
+activity#com.unity3d.ads.adunit.AdUnitActivity
+ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:15:9-19:74
+	android:hardwareAccelerated
+		ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:18:13-47
+	android:configChanges
+		ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:17:13-170
+	android:theme
+		ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:19:13-71
+	android:name
+		ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:16:13-65
+activity#com.unity3d.ads.adunit.AdUnitSoftwareActivity
+ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:20:9-24:74
+	android:hardwareAccelerated
+		ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:23:13-48
+	android:configChanges
+		ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:22:13-170
+	android:theme
+		ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:24:13-71
+	android:name
+		ADDED from [:unity-ads-sdk-2.1:] /Users/abhishekverma/.gradle/caches/transforms-2/files-2.1/7f24c586207dbd999b8006331ca7387b/AndroidManifest.xml:21:13-73

@@ -70,6 +70,8 @@
     <Compile Include="Assets\48 Particle Effect Pack\ShurikenEffectEditor\csShurikenEffectChanger.cs" />
     <Compile Include="Assets\48 Particle Effect Pack\ShurikenEffectEditor\csShurikenEffectEditor.cs" />
     <Compile Include="Assets\AdManager.cs" />
+    <Compile Include="Assets\CameraShakeFX\Scripts\StressReceiver.cs" />
+    <Compile Include="Assets\CameraShakeFX\Scripts\TraumaInducer.cs" />
     <Compile Include="Assets\GameManager.cs" />
     <Compile Include="Assets\Scripts\AutoDestroy\autodestroy.cs" />
     <Compile Include="Assets\Scripts\BouncyPlatform\BouncyPlatform.cs" />

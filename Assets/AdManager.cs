@@ -21,12 +21,11 @@ public class AdManager : MonoBehaviour
         }
     }
     Admob ad;
-    string appID = " ";
-    string bannerID = " ";
-    string interstitialID = " ";
-    string videoID = "";
-    string nativeBannerID = "";
-
+    string appID = "ca-app-pub-7880879567842008~2837321958";
+    string bannerID = "ca-app-pub-7880879567842008/7131790188";
+    string interstitialID = "ca-app-pub-7880879567842008/6940218491";
+    string videoID = "ca-app-pub-7880879567842008/9019586921";
+    string nativeBannerID = "ca-app-pub-3940256099942544/2247696110";
     void Awake()
     {
         DontDestroyOnLoad(gameObject);
@@ -37,10 +36,10 @@ public class AdManager : MonoBehaviour
 				 videoID="ca-app-pub-3940256099942544/1712485313";
 				 nativeBannerID = "ca-app-pub-3940256099942544/3986624511";
 #elif UNITY_ANDROID
-        appID = "ca-app-pub-3940256099942544~3347511713";
-        bannerID = "ca-app-pub-3940256099942544/6300978111";
-        interstitialID = "ca-app-pub-3940256099942544/1033173712";
-        videoID = "ca-app-pub-3940256099942544/5224354917";
+        appID = "ca-app-pub-7880879567842008~2837321958";
+        bannerID = "ca-app-pub-7880879567842008/7131790188";
+        interstitialID = "ca-app-pub-7880879567842008/6940218491";
+        videoID = "ca-app-pub-7880879567842008/9019586921";
         nativeBannerID = "ca-app-pub-3940256099942544/2247696110";
 #endif
         AdProperties adProperties = new AdProperties();

@@ -36,7 +36,8 @@ public class selectasprite : MonoBehaviour
             //DragandDrop.locked = false; 
            
         }
-        if(DragandDrop.wronganswer && quizfinished==false)
+       // if(DragandDrop.wronganswer && quizfinished==false)
+        if (DragandDrop.wronganswer)
         {
             StartCoroutine(PlayWrongAnswerAudiofx());
         }
@@ -49,7 +50,7 @@ public class selectasprite : MonoBehaviour
         Instantiate(wronganswer, transform.position, Quaternion.identity);
         wronganswer.Play();
         // all the animations will be played here
-        yield return new WaitForSeconds(0.1f);
+        yield return new WaitForSeconds(0.01f);
         DragandDrop.wronganswer= false;
 
          

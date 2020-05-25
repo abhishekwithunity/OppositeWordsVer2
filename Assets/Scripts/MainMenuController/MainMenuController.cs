@@ -5,18 +5,19 @@ using UnityEngine.SceneManagement;
 
 public class MainMenuController : MonoBehaviour
 {
-    //[Header("Showig Banner Ads on Main Menu ")]
-    //private AdManager admanager;
+   // [Header("Showig Banner Ads on Main Menu ")]
+   // private AdManager admanager;
 
 
     private void Awake()
     {
-        //admanager = GameObject.Find("AdManager").GetComponent<AdManager>();
+    //    admanager = GameObject.Find("AdManager").GetComponent<AdManager>();
     }
 
     // Start is called before the first frame update
     void Start()
     {
+       // AdManager.Instance.ShowBanner();
         
     }
     public void ShowBannerAdonMainMenu()
@@ -47,6 +48,7 @@ public class MainMenuController : MonoBehaviour
     }
     public void LoadtheLevelMenu()
     {
+       // AdManager.Instance.ShowBanner();
         SceneManager.LoadSceneAsync("LevelMenu");
     }
 }

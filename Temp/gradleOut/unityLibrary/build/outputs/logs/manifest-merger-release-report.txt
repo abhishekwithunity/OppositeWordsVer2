@@ -1,0 +1,135 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:1-31:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:1-31:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:1-31:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:1-31:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:1-31:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:1-31:12
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:1-31:12
+	package
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:117-145
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:1-31:12
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:70-116
+	android:versionCode
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:1-31:12
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:7:11-69
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:9:3-77
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:9:20-74
+uses-permission#android.permission.INTERNET
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:10:3-65
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:10:20-62
+application
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:3-25:17
+	android:label
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:58-90
+	android:icon
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:113-144
+	android:theme
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:16-57
+	android:isGame
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:13:91-112
+activity#com.unity3d.player.UnityPlayerActivity
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:5-20:16
+	android:screenOrientation
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:102-139
+	android:label
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:69-101
+	android:launchMode
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:140-171
+	android:hardwareAccelerated
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:354-389
+	android:configChanges
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:172-353
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:14:15-68
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER+category:name:android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:15:7-19:23
+action#android.intent.action.MAIN
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:9-61
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:16:17-58
+category#android.intent.category.LAUNCHER
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:9-69
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:17:19-66
+category#android.intent.category.LEANBACK_LAUNCHER
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:9-78
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:18:19-75
+meta-data#com.google.android.gms.ads.APPLICATION_ID
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:5-130
+	android:value
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:73-127
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:21:16-72
+meta-data#unity.splash-mode
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:22:5-69
+	android:value
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:22:49-66
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:22:16-48
+meta-data#unity.splash-enable
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:5-74
+	android:value
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:51-71
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:23:16-50
+meta-data#unity.build-id
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:5-101
+	android:value
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:46-98
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:24:16-45
+uses-feature#0x00020000
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:3-52
+	android:glEsVersion
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:26:17-49
+supports-gl-texture#GL_OES_compressed_ETC1_RGB8_texture
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:3-77
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:27:24-74
+uses-feature#android.hardware.touchscreen
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:3-88
+	android:required
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:61-85
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:28:17-60
+uses-feature#android.hardware.touchscreen.multitouch
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:3-99
+	android:required
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:72-96
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:29:17-71
+uses-feature#android.hardware.touchscreen.multitouch.distinct
+ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:30:3-108
+	android:required
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:30:81-105
+	android:name
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml:30:17-80
+uses-sdk
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		ADDED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
+		INJECTED from /Users/abhishekverma/Documents/GitHub/OppositeWordsVer2/Temp/gradleOut/unityLibrary/src/main/AndroidManifest.xml
