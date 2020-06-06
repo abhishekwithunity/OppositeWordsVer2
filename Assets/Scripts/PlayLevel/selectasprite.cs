@@ -23,6 +23,7 @@ public class selectasprite : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        AdManager.Instance.ShowBanner();
         currentsprite_switch = Random.Range(1, 40);
         changesprite();
     }
@@ -229,7 +230,7 @@ public class selectasprite : MonoBehaviour
 
     public void LoadtheLevelMenu()
     {
-        
+        AdManager.Instance.ShowRewardedVideo();
         SceneManager.LoadSceneAsync("LevelMenu");
 
     }

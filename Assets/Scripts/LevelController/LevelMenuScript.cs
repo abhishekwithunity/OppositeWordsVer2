@@ -10,14 +10,11 @@ public class LevelMenuScript : MonoBehaviour
 
      
 
-    private void Awake()
-    {
- 
-    }
-
+   
     public void Level1Load()
     {
-         AdManager.Instance.ShowRewardedVideo();
+        
+        AdManager.Instance.ShowRewardedVideo();
         Time.timeScale = 1f;
         SceneManager.LoadSceneAsync("Play_Opp");
         Time.timeScale = 1f;

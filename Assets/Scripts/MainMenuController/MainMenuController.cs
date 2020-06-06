@@ -9,7 +9,7 @@ public class MainMenuController : MonoBehaviour
 
     private void Awake()
     {
-        AdManager.Instance.ShowBanner();
+        
     }
 
     // Start is called before the first frame update
@@ -18,16 +18,7 @@ public class MainMenuController : MonoBehaviour
         AdManager.Instance.ShowBanner();
         
     }
-    public void ShowBannerAdonMainMenu()
-    {
-         
-    }
-
-    public void RemoveBannerAdonLevelMenu()
-    {
-        
-    }
-
+    
 
     private void Update()
     {
@@ -35,7 +26,7 @@ public class MainMenuController : MonoBehaviour
     }
     public void LoadtheLevelMenu()
     {
-       AdManager.Instance.ShowBanner();
+        AdManager.Instance.ShowBanner();
         SceneManager.LoadSceneAsync("LevelMenu");
     }
 }

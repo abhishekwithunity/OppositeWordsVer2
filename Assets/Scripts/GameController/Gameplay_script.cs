@@ -14,9 +14,10 @@ public class Gameplay_script : MonoBehaviour
     public SpriteRenderer ShowTileHolder;
     public int currentsprite,i;
     public Text RightPanelText,LeftPanelText;
-    [Header("Showig Banner Ads on Game Over ")]
-   // private AdManager admanager;
-    public GameObject ChangeTileAnim;
+     
+   
+    //public GameObject ChangeTileAnim;
+
     public AudioSource ChangeTile_AudioFx;
 
     public void Makeinstance()
@@ -30,7 +31,7 @@ public class Gameplay_script : MonoBehaviour
 
     private void Awake()
     {
-//        admanager = GameObject.Find("AdManager").GetComponent<AdManager>();
+ 
     }
 
 
@@ -71,7 +72,7 @@ public class Gameplay_script : MonoBehaviour
 
     private void Start()
     {
-
+        AdManager.Instance.ShowBanner();
         i = 0;
         ShowTileHolder.sprite = learntiles[currentsprite];
         ShowNameofTiles(i);
@@ -175,7 +176,7 @@ public class Gameplay_script : MonoBehaviour
 
     IEnumerator PlayAnimationBEforeShowingTile()
     {
-        Instantiate(ChangeTileAnim, transform.position, Quaternion.identity);
+       // Instantiate(ChangeTileAnim, transform.position, Quaternion.identity);
         Instantiate(ChangeTile_AudioFx, transform.position, Quaternion.identity);
         ChangeTile_AudioFx.Play();
         yield return new WaitForSeconds(2.0f);
@@ -199,7 +200,7 @@ public class Gameplay_script : MonoBehaviour
 
     public void LoadtheLevelMenu()
     {
-        
+        AdManager.Instance.ShowRewardedVideo();
         SceneManager.LoadSceneAsync("LevelMenu");
 
     }

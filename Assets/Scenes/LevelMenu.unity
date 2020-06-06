@@ -868,6 +868,11 @@ PrefabInstance:
       propertyPath: m_Name
       value: MusicController
       objectReference: {fileID: 0}
+    - target: {fileID: 2537810837341461025, guid: e62f64e52438a44b283ac004ad22e29b,
+        type: 3}
+      propertyPath: m_IsActive
+      value: 0
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: e62f64e52438a44b283ac004ad22e29b, type: 3}
 --- !u!1 &1437475259
@@ -1336,7 +1341,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 3, y: 332}
+  m_AnchoredPosition: {x: -3, y: 242}
   m_SizeDelta: {x: 1080, y: 279.4922}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &2037964568
@@ -1662,7 +1667,7 @@ PrefabInstance:
     - target: {fileID: 3162837078700308737, guid: 3bb61f620549e4c11aa2d656aa9ca6cf,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 73.83
+      value: -68
       objectReference: {fileID: 0}
     - target: {fileID: 3162837078700308737, guid: 3bb61f620549e4c11aa2d656aa9ca6cf,
         type: 3}
@@ -1672,7 +1677,7 @@ PrefabInstance:
     - target: {fileID: 3162837078700308737, guid: 3bb61f620549e4c11aa2d656aa9ca6cf,
         type: 3}
       propertyPath: m_SizeDelta.y
-      value: 221.59686
+      value: 316.75995
       objectReference: {fileID: 0}
     - target: {fileID: 3162837078700308737, guid: 3bb61f620549e4c11aa2d656aa9ca6cf,
         type: 3}
@@ -1781,12 +1786,12 @@ PrefabInstance:
     - target: {fileID: 7236459942560153613, guid: d018fb873e8da4442b3c1f6cf76937ad,
         type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -727
+      value: -740
       objectReference: {fileID: 0}
     - target: {fileID: 7236459942560153613, guid: d018fb873e8da4442b3c1f6cf76937ad,
         type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 361.1
+      value: 245
       objectReference: {fileID: 0}
     - target: {fileID: 7236459942560153613, guid: d018fb873e8da4442b3c1f6cf76937ad,
         type: 3}
